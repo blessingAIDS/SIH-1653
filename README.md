@@ -1,7 +1,7 @@
 # Smart India Hackathon Workshop
-# Date:
-## Register Number:
-## Name:
+# Date: 07.03.2025
+## Register Number: 212224230039
+## Name: BLESSING S
 ## Problem Title
 SIH 1653: Web based Selector-Applicant Simulation Software
 ## Problem Description
@@ -11,16 +11,47 @@ Background: Recruitment and Assessment Centre (RAC) under DRDO, Ministry of Defe
 Ministry of Defence
 
 ## Idea
-
+1. Virtual Boardroom Experience
+A simulated panel that replicates a real-life interview scenario.
+Dynamic questioning: The system starts with introductory questions and progresses towards in-depth technical and managerial questions based on candidate responses.
+Multi-expert integration: Multiple assessors can participate and provide real-time evaluations.
+2. Intelligent Questioning System
+Adaptive Questioning: AI dynamically adjusts the complexity of questions based on the candidate’s profile and past responses.
+Domain-Specific Questioning: Questions are tailored to the candidate’s expertise, ensuring relevance.
+Question Relevance Scoring: AI assigns a score to each question’s appropriateness concerning the candidate’s area of expertise.
+3. Candidate Response Evaluation
+AI-Assisted Scoring: Each response is analyzed for:
+Relevance to the question
+Technical depth
+Clarity of explanation
+Confidence and communication
+Automated Feedback: AI provides insights into strengths and areas for improvement.
+4. Quantifiable Scoring Mechanism
+Relevancy Scoring: Both questions posed and responses given are assigned scores to maintain fairness and objectivity.
+Final Suitability Score: The system aggregates the scores to generate a final assessment score, helping in decision-making.
+5. User-Friendly & Secure System
+Secure login for experts and candidates
+Real-time analytics and reporting
+Video recording for audit and future reference
 
 ## Proposed Solution / Architecture Diagram
+![Screenshot 2025-03-07 095547](https://github.com/user-attachments/assets/3205030d-e12c-4bf8-94ca-e563d00800e7)
 
 
 ## Use Cases
+![Screenshot 2025-03-07 095558](https://github.com/user-attachments/assets/aba018c0-7f7b-4de1-92a0-b7aef36ecbe5)
 
 
 ## Technology Stack
-
+React.js 
+Next.js     
+Tailwind CSS   
+Bootstrap         
+WebRTC   
 
 ## Dependencies
-
+Manpower Cost: ₹2-3 crore      
+Cloud Infrastructure: ₹20-30 lakh      
+AI & Speech Processing APIs: ₹10-15 lakh   
+Software & Licensing: ₹5-10 lakh   
+Miscellaneous : ₹10-15 lakh.
